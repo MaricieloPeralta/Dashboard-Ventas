@@ -1,0 +1,177 @@
+fecha,producto,categoria,cantidad,precio_unitario
+2026-01-02,Plantillas Excel,Digital,2,34.9
+2026-01-02,Plantillas Excel,Digital,4,34.9
+2026-01-04,Membresía mensual,Suscripción,1,39.9
+2026-01-04,Plantillas Excel,Digital,2,34.9
+2026-01-04,Plantillas Excel,Digital,3,34.9
+2026-01-07,Plantillas Excel,Digital,1,34.9
+2026-01-08,Curso online,Digital,1,89.9
+2026-01-08,Curso online,Digital,1,89.9
+2026-01-13,Ebook,Digital,1,24.9
+2026-01-14,Curso online,Digital,4,89.9
+2026-01-14,Membresía mensual,Suscripción,2,39.9
+2026-01-14,Plantillas Excel,Digital,1,34.9
+2026-01-15,Membresía mensual,Suscripción,4,39.9
+2026-01-19,Curso online,Digital,2,89.9
+2026-01-19,Membresía mensual,Suscripción,1,39.9
+2026-01-22,Asesoría 1h,Servicio,4,120.0
+2026-01-27,Curso online,Digital,1,89.9
+2026-01-27,Plantillas Excel,Digital,2,34.9
+2026-01-28,Plantillas Excel,Digital,2,34.9
+2026-02-01,Membresía mensual,Suscripción,4,39.9
+2026-02-02,Asesoría 1h,Servicio,2,120.0
+2026-02-03,Ebook,Digital,3,24.9
+2026-02-06,Membresía mensual,Suscripción,1,39.9
+2026-02-08,Membresía mensual,Suscripción,2,39.9
+2026-02-10,Asesoría 1h,Servicio,1,120.0
+2026-02-16,Ebook,Digital,4,24.9
+2026-02-16,Membresía mensual,Suscripción,1,39.9
+2026-02-16,Plantillas Excel,Digital,3,34.9
+2026-02-16,Plantillas Excel,Digital,4,34.9
+2026-02-17,Curso online,Digital,4,89.9
+2026-02-19,Plantillas Excel,Digital,3,34.9
+2026-02-22,Curso online,Digital,1,89.9
+2026-02-22,Plantillas Excel,Digital,4,34.9
+2026-02-23,Membresía mensual,Suscripción,3,39.9
+2026-02-23,Membresía mensual,Suscripción,4,39.9
+2026-02-24,Curso online,Digital,3,89.9
+2026-02-25,Ebook,Digital,3,24.9
+2026-02-27,Curso online,Digital,1,89.9
+2026-03-01,Ebook,Digital,4,24.9
+2026-03-01,Membresía mensual,Suscripción,2,39.9
+2026-03-05,Ebook,Digital,1,24.9
+2026-03-05,Ebook,Digital,2,24.9
+2026-03-06,Curso online,Digital,4,89.9
+2026-03-06,Plantillas Excel,Digital,3,34.9
+2026-03-09,Plantillas Excel,Digital,4,34.9
+2026-03-13,Asesoría 1h,Servicio,4,120.0
+2026-03-13,Asesoría 1h,Servicio,4,120.0
+2026-03-16,Curso online,Digital,4,89.9
+2026-03-18,Asesoría 1h,Servicio,3,120.0
+2026-03-18,Asesoría 1h,Servicio,3,120.0
+2026-03-19,Plantillas Excel,Digital,3,34.9
+2026-03-22,Membresía mensual,Suscripción,4,39.9
+2026-03-23,Ebook,Digital,1,24.9
+2026-03-24,Ebook,Digital,2,24.9
+2026-03-27,Ebook,Digital,4,24.9
+2026-03-28,Asesoría 1h,Servicio,4,120.0
+2026-04-01,Curso online,Digital,2,89.9
+2026-04-01,Plantillas Excel,Digital,1,34.9
+2026-04-03,Ebook,Digital,2,24.9
+2026-04-04,Asesoría 1h,Servicio,1,120.0
+2026-04-04,Ebook,Digital,3,24.9
+2026-04-04,Plantillas Excel,Digital,3,34.9
+2026-04-06,Asesoría 1h,Servicio,1,120.0
+2026-04-10,Asesoría 1h,Servicio,1,120.0
+2026-04-15,Asesoría 1h,Servicio,4,120.0
+2026-04-16,Membresía mensual,Suscripción,2,39.9
+2026-04-20,Ebook,Digital,4,24.9
+2026-04-20,Membresía mensual,Suscripción,1,39.9
+2026-04-20,Membresía mensual,Suscripción,3,39.9
+2026-04-21,Ebook,Digital,3,24.9
+2026-05-03,Membresía mensual,Suscripción,4,39.9
+2026-05-04,Ebook,Digital,2,24.9
+2026-05-06,Asesoría 1h,Servicio,4,120.0
+2026-05-07,Asesoría 1h,Servicio,3,120.0
+2026-05-07,Curso online,Digital,3,89.9
+2026-05-07,Ebook,Digital,4,24.9
+2026-05-09,Asesoría 1h,Servicio,2,120.0
+2026-05-10,Plantillas Excel,Digital,1,34.9
+2026-05-12,Ebook,Digital,2,24.9
+2026-05-12,Membresía mensual,Suscripción,1,39.9
+2026-05-12,Plantillas Excel,Digital,4,34.9
+2026-05-16,Ebook,Digital,1,24.9
+2026-05-17,Membresía mensual,Suscripción,3,39.9
+2026-05-18,Plantillas Excel,Digital,3,34.9
+2026-05-20,Ebook,Digital,2,24.9
+2026-05-21,Asesoría 1h,Servicio,3,120.0
+2026-05-23,Ebook,Digital,1,24.9
+2026-05-24,Membresía mensual,Suscripción,1,39.9
+2026-05-26,Asesoría 1h,Servicio,2,120.0
+2026-05-26,Curso online,Digital,3,89.9
+2026-05-27,Curso online,Digital,1,89.9
+2026-05-27,Ebook,Digital,4,24.9
+2026-06-01,Curso online,Digital,1,89.9
+2026-06-01,Ebook,Digital,3,24.9
+2026-06-01,Plantillas Excel,Digital,2,34.9
+2026-06-02,Plantillas Excel,Digital,3,34.9
+2026-06-05,Curso online,Digital,4,89.9
+2026-06-05,Ebook,Digital,4,24.9
+2026-06-05,Membresía mensual,Suscripción,2,39.9
+2026-06-05,Plantillas Excel,Digital,2,34.9
+2026-06-06,Ebook,Digital,2,24.9
+2026-06-10,Ebook,Digital,2,24.9
+2026-06-11,Plantillas Excel,Digital,3,34.9
+2026-06-14,Plantillas Excel,Digital,2,34.9
+2026-06-17,Plantillas Excel,Digital,1,34.9
+2026-06-20,Ebook,Digital,4,24.9
+2026-06-22,Asesoría 1h,Servicio,4,120.0
+2026-06-24,Asesoría 1h,Servicio,1,120.0
+2026-06-24,Curso online,Digital,3,89.9
+2026-06-24,Plantillas Excel,Digital,1,34.9
+2026-06-24,Plantillas Excel,Digital,2,34.9
+2026-06-25,Asesoría 1h,Servicio,2,120.0
+2026-06-28,Asesoría 1h,Servicio,2,120.0
+2026-07-03,Asesoría 1h,Servicio,2,120.0
+2026-07-06,Ebook,Digital,4,24.9
+2026-07-07,Asesoría 1h,Servicio,3,120.0
+2026-07-07,Ebook,Digital,3,24.9
+2026-07-07,Plantillas Excel,Digital,4,34.9
+2026-07-08,Asesoría 1h,Servicio,1,120.0
+2026-07-08,Plantillas Excel,Digital,3,34.9
+2026-07-09,Ebook,Digital,2,24.9
+2026-07-13,Plantillas Excel,Digital,3,34.9
+2026-07-14,Ebook,Digital,1,24.9
+2026-07-15,Asesoría 1h,Servicio,3,120.0
+2026-07-15,Curso online,Digital,3,89.9
+2026-07-15,Membresía mensual,Suscripción,4,39.9
+2026-07-15,Plantillas Excel,Digital,1,34.9
+2026-07-16,Asesoría 1h,Servicio,2,120.0
+2026-07-17,Plantillas Excel,Digital,2,34.9
+2026-07-18,Curso online,Digital,1,89.9
+2026-07-18,Plantillas Excel,Digital,4,34.9
+2026-07-22,Curso online,Digital,2,89.9
+2026-07-23,Ebook,Digital,3,24.9
+2026-07-25,Curso online,Digital,1,89.9
+2026-07-26,Membresía mensual,Suscripción,1,39.9
+2026-08-01,Asesoría 1h,Servicio,3,120.0
+2026-08-03,Asesoría 1h,Servicio,3,120.0
+2026-08-03,Membresía mensual,Suscripción,2,39.9
+2026-08-03,Membresía mensual,Suscripción,3,39.9
+2026-08-03,Plantillas Excel,Digital,1,34.9
+2026-08-04,Ebook,Digital,1,24.9
+2026-08-05,Asesoría 1h,Servicio,4,120.0
+2026-08-05,Plantillas Excel,Digital,1,34.9
+2026-08-09,Curso online,Digital,1,89.9
+2026-08-09,Ebook,Digital,2,24.9
+2026-08-09,Membresía mensual,Suscripción,1,39.9
+2026-08-11,Asesoría 1h,Servicio,3,120.0
+2026-08-11,Curso online,Digital,4,89.9
+2026-08-14,Plantillas Excel,Digital,3,34.9
+2026-08-21,Curso online,Digital,1,89.9
+2026-08-23,Asesoría 1h,Servicio,1,120.0
+2026-08-24,Curso online,Digital,3,89.9
+2026-08-26,Curso online,Digital,2,89.9
+2026-08-28,Asesoría 1h,Servicio,3,120.0
+2026-09-02,Membresía mensual,Suscripción,1,39.9
+2026-09-02,Membresía mensual,Suscripción,2,39.9
+2026-09-03,Curso online,Digital,3,89.9
+2026-09-04,Asesoría 1h,Servicio,4,120.0
+2026-09-04,Ebook,Digital,2,24.9
+2026-09-06,Asesoría 1h,Servicio,1,120.0
+2026-09-08,Plantillas Excel,Digital,3,34.9
+2026-09-09,Ebook,Digital,4,24.9
+2026-09-10,Ebook,Digital,3,24.9
+2026-09-10,Plantillas Excel,Digital,2,34.9
+2026-09-11,Ebook,Digital,2,24.9
+2026-09-12,Membresía mensual,Suscripción,1,39.9
+2026-09-13,Ebook,Digital,3,24.9
+2026-09-15,Curso online,Digital,2,89.9
+2026-09-15,Membresía mensual,Suscripción,2,39.9
+2026-09-16,Plantillas Excel,Digital,2,34.9
+2026-09-18,Asesoría 1h,Servicio,4,120.0
+2026-09-22,Curso online,Digital,4,89.9
+2026-09-22,Plantillas Excel,Digital,3,34.9
+2026-09-24,Curso online,Digital,2,89.9
+2026-09-25,Plantillas Excel,Digital,2,34.9
+2026-09-27,Curso online,Digital,2,89.9
